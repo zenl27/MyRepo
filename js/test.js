@@ -8,3 +8,8 @@ hello()
 let arr = [1, 5, 4, 5, 8]
 let res = arr.sort()
 console.log(res);
+
+
+let abs ={
+name:"fhgfakajga"
+}
